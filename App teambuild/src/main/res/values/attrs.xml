@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CornerRadiusFrameLayout">
+        <attr name="leftTopCorner" format="dimension" />
+        <attr name="rightTopCorner" format="dimension" />
+        <attr name="leftBottomCorner" format="dimension" />
+        <attr name="rightBottomCorner" format="dimension" />
+    </declare-styleable>
+    <attr name="superBottomSheet_dismissManually" format="boolean" />
+</resources>

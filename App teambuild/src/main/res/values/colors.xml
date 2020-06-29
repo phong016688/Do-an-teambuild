@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#ffffff</color>
+    <color name="colorPrimary">#e91e63</color>
+    <color name="colorPrimaryDark">#c2185b</color>
+    <color name="colorAccent">#64ffda</color>
+    <color name="colorBackGround">#1E000000</color>
+    <color name="grey">#778899</color>
+    <color name="blue">#2196f3</color>
+    <color name="shadowblue">#0abab5</color>
+    <color name="shadowDarkblue">#40e0d0</color>
+    <color name="white">#ffffff</color>
+    <color name="startGrad">#f857a6</color>
+    <color name="endGrad">#ff5858</color>
+    <color name="tendGrad">#83EAF1</color>
+    <color name="blue2">#5D8AA8</color>
+    <color name="gray">#9ca9aa</color>
+    <color name="gray3">#eeeeee</color>
+    <color name="black">#000</color>
+    <color name="red">#ff3232</color>
+    <color name="state_processing">#FFEB3B</color>
+    <color name="state_completed">#576FF4</color>
+    <color name="state_cancelled">#F86358</color>
+
+    <color name="user_input_color">#000</color>
+    <color name="unfocused_color">#778899</color>
+    <color name="green">#00574B</color>
+    <color name="white1">#E6E6E6</color>
+</resources>

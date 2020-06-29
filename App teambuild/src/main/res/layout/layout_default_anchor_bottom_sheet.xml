@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/state_event_bg">
+
+    <com.phong.teamcnpm.teambuilding.widgets.CornerRadiusFrameLayout
+        android:layout_width="50dp"
+        android:layout_height="10dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/holo_blue_light"
+        app:leftBottomCorner="16dp"
+        app:leftTopCorner="16dp"
+        app:rightBottomCorner="16dp"
+        app:rightTopCorner="16dp" />
+</FrameLayout>
